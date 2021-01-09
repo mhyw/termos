@@ -1,0 +1,83 @@
+const help = (prefix) => { 
+	return ` hai omm, berikut adalah beberapa fitur RANDOM BOT.  
+┏━━°❀ ❬ *TENTANG BOT* ❭ ❀°━━━┓
+┃
+┣➥ ```${prefix}info```
+┣➥ ```${prefix}sewa```
+┣➥ ```${prefix}donate```
+┣➥ ```${prefix}owner```
+┣➥ ```${prefix}ping```
+┣➥ ```${prefix}bugreport [lapor bug]```
+┣➥ ```${prefix}request  [minta fitur]```
+┃
+┣━━━━°❀ ❬ *MEDIA* ❭ ❀°━━━━━⊱
+┃
+┣➥ ```${prefix}sticker```
+┣➥ ```${prefix}tsticker```
+┣➥ ```${prefix}toimg```
+┣➥ ```${prefix}nulis```
+┣➥ ```${prefix}ocr```
+┣➥ ```${prefix}ytsearch```
+┣➥ ```${prefix}ytmp3```
+┣➥ ```${prefix}tiktok```
+┣➥ ```${prefix}tiktokstalk```
+┣➥ ```${prefix}tts```
+┣➥ ```${prefix}tes```
+┣➥ ```${prefix}meme```
+┣➥ ```${prefix}memeindo```
+┣➥ ```${prefix}url2img```
+┣➥ ```${prefix}wait```
+┃
+┣━━━━━°❀ ❬ *GRUP* ❭ ❀°━━━━━⊱
+┃
+┣➥ ```${prefix}add```
+┣➥ ```${prefix}kick```
+┣➥ ```${prefix}promote```
+┣➥ ```${prefix}demote```
+┣➥ ```${prefix}welcome```
+┣➥ ```${prefix}simi```
+┣➥ ```${prefix}simih```
+┣➥ ```${prefix}gc [buka/tutup]```
+┣➥ ```${prefix}tagme```
+┣➥ ```${prefix}hidetag```
+┣➥ ```${prefix}tagall```
+┣➥ ```${prefix}tagall2```
+┣➥ ```${prefix}tagall3```
+┣➥ ```${prefix}infogc```
+┣➥ ```${prefix}linkgroup```
+┣➥ ```${prefix}listadmins```
+┃
+┣━━━━━°❀ ❬ *OTHER* ❭ ❀°━━━━━⊱
+┃
+┣➥ ```${prefix}blocklist```
+┣➥ ```${prefix}hilih```
+┃
+┣━━━━°❀ ❬ *OWNER* ❭ ❀°━━━━━⊱
+┃
+┣➥ ```${prefix}setprefix```
+┣➥ ```${prefix}bc```
+┣➥ ```${prefix}clearall```
+┣➥ ```${prefix}clone```
+┣➥ ```${prefix}leave```
+┃
+┣━━━━━°❀ ❬ *NOTE* ❭ ❀°━━━━━⊱
+┃
+┣➥ ~coret~ = fitur mati/error
+┣➥ adda yg error segera ketik 
+┃ *${prefix}bugreport (masalah)
+┣➥ request fitur ketik *${prefix}request
+┃ (fitur yg ingin di request)
+┣➥ 🛇gk boleh keras🛇
+┣➥ ☡keras☡ : coli, ejek, berantem
+┣➥ sebelum memasukkan bot ke group
+┃ harap izin owner
+┣➥ pengen jadi bot chat owner
+┣➥ owner : wa.me/6281803390353
+┣➥ thx to : XP-TN, RIDHO, ST4RZ,
+┃MHANKBARBAR, ARUGAZ, TOBZ, HEROKU, 
+┃MT MANAGER, QUICKEDIT+, DLL
+┣━━━━━━━━━━━━━━━━━━━━
+┃ *POWERED BY RANDOMSC*
+┗━━━━━━━━━━━━━━━━━━━━`
+}
+exports.help = help
